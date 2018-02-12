@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AntonioGoulao</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="settings_label">Settings</string>
+    <string name="about_label">About</string>
+
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="dummy_button">Open Source Licenses</string>
+    <string name="name">Antonio Goulao</string>
+</resources>
